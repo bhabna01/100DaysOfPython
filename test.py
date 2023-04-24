@@ -1,0 +1,1 @@
+print("bhabna is going to be millionaire")
