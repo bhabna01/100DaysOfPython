@@ -33,7 +33,7 @@ def decoding(w):
 
 
 word = input("Enter a word:")
-option = int(input("Enter option 1.encoding 2.Decoding"))
+option = int(input("Enter option 1.encoding 2.Decoding:"))
 if (option == 1):
     encoding(word)
 elif (option == 2):
